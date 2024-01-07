@@ -1,0 +1,7 @@
+.formdiv{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(222,233,235,1) 0%, rgba(9,9,121,1) 100%);
+    width: 50%;
+    border-radius: 15px;
+    padding: 20px 30px;
+}
